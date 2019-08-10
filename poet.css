@@ -3,7 +3,7 @@ body {margin:0px;
 		height:100%;}
 
 .drag {
-	font-family: monospace;
+	font-family: "PT Mono", monospace;
 	font-size: 16px;
 	display:inline-block;
 	border:1px solid #BBBBBB;
@@ -17,7 +17,7 @@ body {margin:0px;
 
 .imageword {
   position:absolute;
-	font-family: monospace;
+	font-family: "PT Mono", monospace;
 	font-size: 16px;
 	border:1px solid #BBBBBB;
 	border-bottom:1px solid #505050;

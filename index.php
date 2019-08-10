@@ -1,7 +1,7 @@
 <?php
 
   $lists = [
-    'essentials/original',
+    'essentials/the-poet',
     'little boxes/happiness'  
   ];
   $max_words = 300;
@@ -21,6 +21,7 @@
 
 <html><head>
     <title>Magnetic Poet</title>
+  <link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet"> 
   <link rel='stylesheet' href='poet.css' type='text/css' media='all' />
   <script type='text/javascript' src='lib/jquery-1.11.2.min.js'></script>
   <script type='text/javascript' src='poet.js'></script>
